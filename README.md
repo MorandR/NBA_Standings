@@ -1,4 +1,4 @@
-# NBA_Tournament
+# NBA Tournament
 
 Reference: [NBA Team Stats Page](https://www.nba.com/stats/teams/traditional?Outcome=&SeasonType=Regular+Season&Season=2023-24)
 
