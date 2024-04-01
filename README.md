@@ -1,6 +1,6 @@
 # NBA Tournament
 
-Reference: [NBA Team Stats Page](https://www.nba.com/stats/teams/traditional?Outcome=&SeasonType=Regular+Season&Season=2023-24)
+Reference: [NBA Team Stats Page](https://www.nba.com/stats/teams/traditional/)
 
 <h3 style="text-align: center;">Basketball Introduction</h3>
 

@@ -2,3 +2,4 @@
 *.py
 __pycache__/buckets.cpython-39.pyc
 nba_stats.xlsx
+nba_stats.csv
