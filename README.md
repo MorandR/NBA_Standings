@@ -31,3 +31,19 @@ More analysis will be explored while going through this experimentation.
 
 <h3 style="text-align: center;">Conclusion</h3>
 We want to showcase the powerful tool of machine learning by leveraging data and different techniques used for prediction. Those predictions can later be used to make accurate conclusions. 
+
+
+
+
+
+New Orleans Hornets (2002-03 ~ 2004-05)
+NOH as New Orleans/Oklahoma City Hornets (2005-06 ~ 2006-07)
+NOOGCH  back to NOH (2007-08 ~ 2012-13)
+NOH as New Orleans Pelicans  (2013-14 ~ )
+
+Charlotte  Hornets (1996-96 ~ 2002-03)
+CH as Charleotte Bobcats (2004-05 ~ 2013-14)
+CB as CH (2014-15 ~ End)
+
+
+
