@@ -1,4 +1,4 @@
-# NBA --Tournament-- Betting 
+# NBA Playoffs 
 
 Reference: [NBA Team Stats Page](https://www.nba.com/stats/teams/traditional/)
 
@@ -16,6 +16,10 @@ There were multiple Exception Errors we had to overcome such as:
 - Timeout Exception
 
 
+Further into the project, I wanted to prepare the tournament much like the real deal with each team playing within their conference.
+So I had to resive the Selenium code to capture Teams' designated category.
+
+
 **Data Cleaning and Preprocessing:**
 From the previous project, we needed to correct some team names since they had different establishment and ownerships.
 This dataset had already been fixed, but need to update the team abbreviations.
@@ -23,10 +27,10 @@ This dataset had already been fixed, but need to update the team abbreviations.
 Visual graphs were displayed to get a general idea of each teams performance overall
 
 **Machine Learning: Part 1**
-While this dataset contains 66172 indicies and 28 total features, a Decision Tree Regression model was used.
+While this dataset contains 66172 indicies and 30 total features, a Decision Tree Regression model was used.
 I chose this model because this I wanted to explore and compate the accuracy of other models than Logistic Regression. <br/>
 
-From the result, I observed that there wewre absolute no error in this model's prediction. Thinking that this could be strange especially while working with a complexed dataset. <br/>
+From the result, I observed that there were absolute no error in this model's prediction. Thinking that this could be strange especially while working with a complexed dataset. <br/>
 
 More analysis to come...
 
