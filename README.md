@@ -1,11 +1,11 @@
-# NBA Playoffs 
+# NBA Standings 
 
 Reference: [NBA Team Box Scores Page](https://www.nba.com/stats/teams/boxscores-traditional)
 
 
 <h3 style="text-align: center;">Review</h3>
-In a previous project certain features were used to predict winners of a matchup game.
-Follow the [code](/basketball.ipynb) for more details.
+In a previous project certain features were used to predict winners of a matchup game. <br/>
+Follow the basketball.ipynb for more details. <br/><br/>
 
 
 Below are the discoveries and challenges successfully overcome:
